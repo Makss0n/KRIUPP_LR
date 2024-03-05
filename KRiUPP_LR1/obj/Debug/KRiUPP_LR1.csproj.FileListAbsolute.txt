@@ -1,0 +1,13 @@
+C:\Users\maksp\source\repos\KRiUPP_LR1\bin\Debug\Database1.mdf
+C:\Users\maksp\source\repos\KRiUPP_LR1\bin\Debug\Database1_log.ldf
+C:\Users\maksp\source\repos\KRiUPP_LR1\bin\Debug\KRiUPP_LR1.exe.config
+C:\Users\maksp\source\repos\KRiUPP_LR1\bin\Debug\KRiUPP_LR1.exe
+C:\Users\maksp\source\repos\KRiUPP_LR1\bin\Debug\KRiUPP_LR1.pdb
+C:\Users\maksp\source\repos\KRiUPP_LR1\obj\Debug\KRiUPP_LR1.csproj.AssemblyReference.cache
+C:\Users\maksp\source\repos\KRiUPP_LR1\obj\Debug\KRiUPP_LR1.Form1.resources
+C:\Users\maksp\source\repos\KRiUPP_LR1\obj\Debug\KRiUPP_LR1.Properties.Resources.resources
+C:\Users\maksp\source\repos\KRiUPP_LR1\obj\Debug\KRiUPP_LR1.csproj.GenerateResource.cache
+C:\Users\maksp\source\repos\KRiUPP_LR1\obj\Debug\KRiUPP_LR1.csproj.CoreCompileInputs.cache
+C:\Users\maksp\source\repos\KRiUPP_LR1\obj\Debug\KRiUPP_LR1.exe
+C:\Users\maksp\source\repos\KRiUPP_LR1\obj\Debug\KRiUPP_LR1.pdb
+C:\Users\maksp\source\repos\KRiUPP_LR1\obj\Debug\KRiUPP_LR1.Form2.resources
